@@ -1,0 +1,13 @@
+{
+  "name": "araliearning",
+  "version": "1.0.0",
+  "description": "Platform E-Learning dengan CRUD untuk Admin, Guru, dan Murid",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["elearning", "education", "lms"],
+  "author": "AralieArning Team",
+  "license": "MIT"
+}
