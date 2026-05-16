@@ -1,4 +1,4 @@
-# AralieArning - Platform E-Learning
+# Araliearning - Platform E-Learning
 
 Platform e-learning modern dengan fitur CRUD untuk Admin, Guru, dan Murid. Mendukung video pembelajaran dari YouTube yang bisa ditonton langsung di dalam platform.
 
